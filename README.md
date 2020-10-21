@@ -1,6 +1,6 @@
 <div align="center">
  
-# KryPtoN Whatsapp Bot 
+# Zkyzzz Bot (Made By KryPton)
 [![CodeFactor](https://www.codefactor.io/repository/github/kry9ton/krypton-whatsapp-bot/badge)](https://www.codefactor.io/repository/github/kry9ton/krypton-whatsapp-bot)
 [![Version](https://img.shields.io/badge/version%20K--wa%20Bot-v1.1.0-brightgreen)](https://github.com/Kry9toN/KryPtoN-WhatsApp-Bot/releases)
 
